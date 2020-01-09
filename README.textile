@@ -26,6 +26,5 @@ h2. Example Usage
 
 h2. References
 
-* "Original Github repository":https://github.com/psugand/CodeIgniter-S3
 * "Original documentation for this class":http://undesigned.org.za/2007/10/22/amazon-s3-php-class/documentation
 * "Amazon S3 Documentation":http://docs.amazonwebservices.com/AmazonS3/2006-03-01/
